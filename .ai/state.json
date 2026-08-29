@@ -1,0 +1,17 @@
+{
+  "context_version": 2,
+  "timestamp": "2026-08-29T18:28:02.493862+03:00",
+  "context_hash": "4b8af23b021abc01",
+  "active_files": [
+    "index.html",
+    "D:\\\\projects\\\\Шлагбаум\\\\Хронология_обращений_шлагбаум.txt",
+    "D:\\\\projects\\\\Шлагбаум\\\\04_Жителям\\\\Сообщение_телеграм_29-08-2026_промежуточный_итог_ОСС.txt"
+  ],
+  "decisions": [
+    "29.08 interim turnout from ED office: 60/273 ~90% FOR; canvassing ~01-10.09 19-21"
+  ],
+  "blockers": [],
+  "last_error": null,
+  "retry_count": 0,
+  "next_action": "Post TG reminder; await exact canvassing dates from ED"
+}
