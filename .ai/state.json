@@ -1,17 +1,14 @@
 {
-  "context_version": 2,
-  "timestamp": "2026-08-29T18:28:02.493862+03:00",
-  "context_hash": "4b8af23b021abc01",
-  "active_files": [
+  "schema": "v4",
+  "context_version": 9,
+  "updated": "2026-10-17T15:40:46.364615+03:00",
+  "context_hash": "092e3345b27009de",
+  "status": "Install appeals sent: mos 58146752, ED 27625267/27625156, AMPP+Zhilishnik mail",
+  "hot_files": [
+    "D:\\\\projects\\\\Шлагбаум\\\\04_Жителям\\\\Сообщение_телеграм_17-10-2026_обращения_на_монтаж.txt",
     "index.html",
-    "D:\\\\projects\\\\Шлагбаум\\\\Хронология_обращений_шлагбаум.txt",
-    "D:\\\\projects\\\\Шлагбаум\\\\04_Жителям\\\\Сообщение_телеграм_29-08-2026_промежуточный_итог_ОСС.txt"
-  ],
-  "decisions": [
-    "29.08 interim turnout from ED office: 60/273 ~90% FOR; canvassing ~01-10.09 19-21"
+    "D:\\\\projects\\\\Шлагбаум\\\\Хронология_обращений_шлагбаум.txt"
   ],
   "blockers": [],
-  "last_error": null,
-  "retry_count": 0,
-  "next_action": "Post TG reminder; await exact canvassing dates from ED"
+  "next": "Await AMPP/Zhilishnik/ED replies; track install queue"
 }
